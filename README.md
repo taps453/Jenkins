@@ -11,7 +11,7 @@ It facilitates continuous integration and continuous delivery (CI/CD) by automat
 
 <h3>Key Concepts:</h3>
 
-<h4>Job:</h4>h4> A job in Jenkins represents a single task, such as building a project, running tests, or deploying an application.
+<h4>Job:</h4> A job in Jenkins represents a single task, such as building a project, running tests, or deploying an application.
 <h4>Build:</h4> The process of compiling source code, running tests, and producing executable files.
 <h4>Node:</h4> A machine (server or workstation) that Jenkins uses to execute jobs.
 <h4>Workspace:</h4> A directory on a node where Jenkins stores files for a particular job during its execution.
